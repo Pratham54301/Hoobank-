@@ -2,12 +2,65 @@
 
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+```
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+## 🔧 Technologies Used
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
-# Hoobank-
+- ⚛️ React 19
+- 💨 Tailwind CSS
+- ⚡ Vite
+- 📁 Modular Folder Structure
+- 🧠 Reusable Components
+
+---
+
+## 📦 Features
+
+- ✅ Fully responsive design (Mobile, Tablet, Desktop)
+- ✅ Clean and minimal UI
+- ✅ Modern utility-first CSS
+- ✅ Component-based architecture
+- ✅ Animations and transitions
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Pratham54301/Hoobank-.git
+cd Hoobank-
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+[🔗 View Live on Vercel](https://your-vercel-link.vercel.app)
+
+---
+
+## 🤝 Credits
+
+This project is based on a [JavaScript Mastery](https://www.youtube.com/c/javascriptmastery) tutorial, customized and extended by [Pratham](https://github.com/Pratham54301).
+
+---
+
+
+---
+````
+Let me know if you want to include your **live demo URL**, screenshot, or personalize author info.
+```
