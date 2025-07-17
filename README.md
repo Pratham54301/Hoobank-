@@ -49,7 +49,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[🔗 View Live on Vercel](https://your-vercel-link.vercel.app)
+[🔗 View Live on Vercel](https://hoobank-eta-roan.vercel.app/))
 
 ---
 
